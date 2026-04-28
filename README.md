@@ -14,6 +14,7 @@ This repository contains my Java + DSA learning journey.
 - Linked List
 
 ## Current Goal:
+- More Linked List and Recursion Practice
 - Stack
 - Queue
 - Trees
@@ -23,3 +24,4 @@ This repository contains my Java + DSA learning journey.
 - HackerRank
 - NPTEL
 - LeetCode
+- HackerRank
